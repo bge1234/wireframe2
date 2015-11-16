@@ -1,0 +1,12 @@
+.left{
+  float: left;
+  padding-left: 20px;
+  padding-top: 50px;
+}
+.right{
+  padding-top: 50px;
+  float: right;
+}
+.rawr{
+  max-width: 300px;
+}
